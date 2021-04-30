@@ -11,4 +11,4 @@ Download this files from [https://pjreddie.com/darknet/yolo/](https://pjreddie.c
 
 The steps includes:
 1. Upload objectdetection directory to drive
-2. There is Two Notebooks ObjectDetection and ObjectDetection_v2, Mount to drive.
+2. There is Two Notebooks ObjectDetection(detection from images) and ObjectDetection_v2(detection from real-time & video), Mount to drive.
